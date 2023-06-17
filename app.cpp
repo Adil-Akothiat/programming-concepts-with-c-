@@ -1,10 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    int num1 = 20;
-    std::cout << "One \n";
-    std::cout << "Two \n";
-    std::cout << num1+5;
-    return 20;
+    int x, y, z, a;
+    x = 20, y = 30, z = 10;
+    cout <<"sum : " << x + y + z + a;
+    return 0;
 }

@@ -35,3 +35,40 @@ int main()
     return 20;
 }
 ```
+traitment => create translation unit => compiler give it to object file => execute file
+### keys
+> cout => character output
+> ">>" => stream insertion operator
+### Comments
+Single line comment.
+> // Hello World
+Multi lines comment.
+```
+/*
+    comment 1
+    comment 2
+    comment 3
+*/
+```
+### Data types 
+> int 
+> float 
+### Variables Basic Knowledge
+
+Variable is a data container with unique name called identifier. We can declare it and change it later, without value assign and with, we can declare multiple variables without value and change them later.
+
+#### Variable Naming Rules & Best Practices
+##### Naming Rules 
+* Must be unique
+* Case sensitive
+* Can't start with numbers
+* Numbers, letters and underscore are allowed
+* White space and special characters are not allowed
+* Reserved keywords are not allowed (Class - Public...)
+##### Best Practices
+* Related names
+* Writing style
+
+#### Variable Scope
+* Local scope 
+* Global scope
